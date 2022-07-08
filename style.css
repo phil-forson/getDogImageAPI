@@ -25,3 +25,7 @@
 .getImageBtn:hover {
     background-color: rgba(12,155,244, 0.7);
 }
+
+.myImage {
+    margin-left: 20px;
+}
