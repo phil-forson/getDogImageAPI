@@ -26,6 +26,9 @@
     background-color: rgba(12,155,244, 0.7);
 }
 
-.myImage {
-    margin-left: 20px;
+#dogImage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
 }
